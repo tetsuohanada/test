@@ -35,7 +35,7 @@ client.on('message', message => {
 	if (message.author === client.user) return;
 	if (message.content.startsWith(prefix + 'Tetsuo')) {
 	
-		 message.channel.send(`Hello @Tetsuo`);
+		 message.channel.send(`Hello 339481064361689110. How are you?`);
 		
 	}
 });
